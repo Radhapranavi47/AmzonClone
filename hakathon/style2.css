@@ -1,0 +1,18 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+    margin-top: -10px;
+    background-position: -5px -130px;
+}
+
+.box{
+  
+    height:400px;
+    width:23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    border-color: 2px solid black;
+}
